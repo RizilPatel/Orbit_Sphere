@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # Orbit_Sphere
-=======
+
 <h1>🛍️ OrbitSphere</h1>
 
 <h2>📌 Overview</h2>
@@ -39,4 +38,5 @@
 
   <li><strong>Run the application on an emulator or connected device.</strong></li>
 </ol>
+
 
