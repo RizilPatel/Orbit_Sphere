@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "####",
+    "project_id": "skillix-####",
+    "storage_bucket": "skillix-####.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82204378667:android:#####",
+        "android_client_info": {
+          "package_name": "com.skillix.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9GOMXg5NP-####"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82204378667:android:####",
+        "android_client_info": {
+          "package_name": "com.skillix.merchant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9GOMXg5NP-#####"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
