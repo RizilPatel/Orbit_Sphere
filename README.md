@@ -39,4 +39,4 @@
 
   <li><strong>Run the application on an emulator or connected device.</strong></li>
 </ol>
->>>>>>> a07e609 (First initial commit of files)
+
